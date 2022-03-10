@@ -10,6 +10,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '40891'
     url: http://www.gutenberg.org/2009/agents/40891
+covers:
+- cover_type: archival
+  image_path: 67546-h/images/cover.jpg
 creator:
   author:
     agent_name: Marchmont, Arthur W.
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '37728'
     url: http://www.gutenberg.org/2009/agents/37728
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67546#In-the-Name-of-a-Woman-A-Romance
 gutenberg_issued: '2022-03-03'
 identifiers:
   gutenberg: '67546'
